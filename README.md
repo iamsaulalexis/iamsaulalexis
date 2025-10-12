@@ -1,26 +1,86 @@
-# <a href="https://www.linkedin.com/in/iamsaulalexis/">Saul Alexis</a>'s IT and Cybersecurity Project Portfolio 🔐
+# 👋 Hey, I'm Saul Alexis
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+🚀 **Infrastructure | Cloud | Cybersecurity Enthusiast**  
+🔧 Passionate about building secure, automated, and resilient systems.
+
+---
+
+## 🧠 About Me
+
+💻 IT Support & Cybersecurity professional with hands-on experience in:
+- Infrastructure automation, system monitoring, and secure configurations  
+- Identity management, SIEM tools, and incident response  
+- Windows and Linux environments, network troubleshooting, and endpoint defense  
+
+⚡ I enjoy learning how things work behind the scenes and improving reliability and security for users and systems alike.
+
+---
+
+## 🔵 Infrastructure
+> “If you can’t automate it, document it.”
+
+### 🛠️ Core Skills
+- **Infrastructure as Code:** Terraform, CloudFormation  
+- **Automation:** Ansible, Bash, PowerShell, GitHub Actions  
+- **Cloud:** AWS, Azure, Docker, Kubernetes (basics)  
+- **Monitoring:** Grafana, Prometheus, Elastic Stack (ELK)  
+- **Windows Server Roles:** AD DS, DNS, DHCP, File Server, Print Server  
+
+### 📘 What I Build
+- Reusable Terraform modules for AWS resources  
+- Automated configuration scripts for Windows & Linux  
+- CI/CD workflows for infrastructure validation  
+- Network maps and resource monitoring dashboards  
+
+### 📂 Example Repos
+- `infrastructure-templates/` – modular infra blueprints  
+- `automation-scripts/` – PowerShell & Bash utilities  
+
+---
+
+## 🔴 Cybersecurity
+> “Security isn’t a product, it’s a process.”
+
+### 🔒 Focus Areas
+- Threat detection and response  
+- Log analysis with SIEM (Splunk, Azure Sentinel, or ELK)  
+- Incident handling & playbooks  
+- Active Directory hardening and access control  
+- Endpoint protection and patch management  
+
+### 🧰 My Process
+1. Detect suspicious activity  
+2. Investigate and contain  
+3. Eradicate & recover systems  
+4. Document and update detection rules  
+
+### 📁 Cyber Projects
+- `incident-response-playbook.md` – IR workflow guide  
+- `log-analysis-lab/` – test setup for event monitoring  
+
+---
+
+## ⚙️ Tools & Tech
+
+| Category | Tools |
+|-----------|-------|
+| **Cloud & Infra** | AWS · Azure · Terraform · Docker |
+| **Automation** | Ansible · PowerShell · Bash · GitHub Actions |
+| **Security** | SIEM · AD · Nessus · Wireshark |
+| **Monitoring** | Grafana · ELK Stack · Prometheus |
+| **OS** | Windows Server · Ubuntu · Kali Linux |
+
+---
 
 
-## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+---
 
+## 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamsaulalexis/)
 
-## 🤳 Connect With Me
+---
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Saul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+⭐ **Thanks for visiting my profile!**  
+💬 Feel free to explore my projects or connect with me.
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/iamsaulalexis/
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
