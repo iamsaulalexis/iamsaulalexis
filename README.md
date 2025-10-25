@@ -20,7 +20,7 @@
 > “If you can’t automate it, document it.”
 
 ### 📁 Infrastructure Projects
-- `azure-active-directory-lab.md` – client server deployment  
+- [Azure Active Directory Lab (Client-Server Deployment)](./infrastructure/ad-lab.md)
 
 ---
 
