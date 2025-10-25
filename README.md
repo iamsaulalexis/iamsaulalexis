@@ -19,6 +19,11 @@
 ## 🔵 Infrastructure
 > “If you can’t automate it, document it.”
 
+### 📁 Infrastructure Projects
+- `azure-active-directory-lab.md` – client server deployment  
+
+---
+
 ### 🛠️ Core Skills
 - **Infrastructure as Code:** Terraform, CloudFormation  
 - **Automation:** Ansible, Bash, PowerShell, GitHub Actions  
