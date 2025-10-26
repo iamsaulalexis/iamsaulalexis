@@ -52,6 +52,7 @@ After policies apply, they can still see the file but **can’t set it as wallpa
 | <img width="762" height="526" alt="gpos-10" src="https://github.com/user-attachments/assets/757c0a26-238a-4e8e-98b4-8accf8ba38bd" />| Group Policy Management Console showing all enforced policies |
 | <img width="1913" height="1079" alt="wallpapergpo-11" src="https://github.com/user-attachments/assets/3a823f62-99ac-4ede-a527-69d4fd9c23c6" />| Company logo wallpaper successfully applied through GPO |
 | <img width="579" height="881" alt="rgdelete-12" src="https://github.com/user-attachments/assets/b52eafec-1cc1-4244-8ce4-c6f23cfa977e" />| Cleaning up all resources in Azure Resource Group to avoid charges |
+| <img width="1910" height="885" alt="cost-analysis-13" src="https://github.com/user-attachments/assets/431466be-0e39-455c-85d1-148c5fb62cd4" />| Cost analysis of resources for this lab |
 ---
 ## 🧩 Technical Highlights
 - Secure RDP access limited to a single external IP
@@ -68,10 +69,12 @@ After policies apply, they can still see the file but **can’t set it as wallpa
 | **Total** | | **≈ $0.09/hr (~$0.27 for 3 hrs)** |
 ---
 ## 🏁 Results
-✅ Domain environment successfully deployed
-✅ CLIENT01 joined to domain `lab.local`
-✅ GPOs applied and verified (`gpresult /h C:\GPOReport.html`)
-✅ Wallpaper, Control Panel, and Task Manager restrictions enforced
-✅ RDP access functioning for domain users
-✅ All resources deleted post-lab to avoid costs
+|Checklist|
+|--------------------------|
+|✅ Domain environment successfully deployed|
+|✅ CLIENT01 joined to domain `lab.local`|
+|✅ GPOs applied and verified (`gpresult /h C:\GPOReport.html`)|
+|✅ Wallpaper, Control Panel, and Task Manager restrictions enforced|
+|✅ RDP access functioning for domain users|
+|✅ All resources deleted post-lab to avoid costs|
 ---
