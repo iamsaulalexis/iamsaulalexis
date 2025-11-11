@@ -21,7 +21,7 @@
 
 ### 📁 Infrastructure Projects
 - [Azure Active Directory Lab (Client-Server Deployment)](./infrastructure/ad-lab.md)
-- [SQL Server Lab (Single-VM)](./infrastructure/sqlsrv.md)
+- [SQL Server Lab (Single-VM)](./infrastructure/SQLSRV.md)
 ---
 
 ### 🛠️ Core Skills
