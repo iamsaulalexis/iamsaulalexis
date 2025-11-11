@@ -26,20 +26,10 @@
 
 ### 🛠️ Core Skills
 - **Infrastructure as Code:** Terraform, CloudFormation  
-- **Automation:** Ansible, Bash, PowerShell, GitHub Actions  
-- **Cloud:** AWS, Azure, Docker, Kubernetes (basics)  
-- **Monitoring:** Grafana, Prometheus, Elastic Stack (ELK)  
-- **Windows Server Roles:** AD DS, DNS, DHCP, File Server, Print Server  
-
-### 📘 What I Build
-- Reusable Terraform modules for AWS resources  
-- Automated configuration scripts for Windows & Linux  
-- CI/CD workflows for infrastructure validation  
-- Network maps and resource monitoring dashboards  
-
-### 📂 Example Repos
-- `infrastructure-templates/` – modular infra blueprints  
-- `automation-scripts/` – PowerShell & Bash utilities  
+- **Automation:** PowerShell
+- **Cloud:** Azure 
+- **Monitoring:** Defender 
+- **Windows Server Roles:** AD DS, DNS, DHCP  
 
 ---
 
@@ -48,9 +38,7 @@
 
 ### 🔒 Focus Areas
 - Threat detection and response  
-- Log analysis with SIEM (Splunk, Azure Sentinel, or ELK)  
-- Incident handling & playbooks  
-- Active Directory hardening and access control  
+- Log analysis with SIEM (Azure Sentinel)  
 - Endpoint protection and patch management  
 
 ### 🧰 My Process
@@ -60,8 +48,7 @@
 4. Document and update detection rules  
 
 ### 📁 Cyber Projects
-- `incident-response-playbook.md` – IR workflow guide  
-- `log-analysis-lab/` – test setup for event monitoring  
+
 
 ---
 
@@ -69,11 +56,11 @@
 
 | Category | Tools |
 |-----------|-------|
-| **Cloud & Infra** | AWS · Azure · Terraform · Docker |
-| **Automation** | Ansible · PowerShell · Bash · GitHub Actions |
-| **Security** | SIEM · AD · Nessus · Wireshark |
-| **Monitoring** | Grafana · ELK Stack · Prometheus |
-| **OS** | Windows Server · Ubuntu · Kali Linux |
+| **Cloud & Infra** | Azure |
+| **Automation** | PowerShell |
+| **Security** | SIEM · AD · Wireshark |
+| **Monitoring** | Defender |
+| **OS** | Windows Server · Ubuntu |
 
 ---
 
